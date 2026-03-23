@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=poppins&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=+Tranforming+Data,+Buiilding+Solution!+)](https://git.io/typing-svg)
 #
 <p align="center">
-  <img src="https://github.com/AlfredoDataeng/AlfredoDataeng/blob/main/ALFREDO%20FRANCISCO.gif" />
+  <img src="https://github.com/AlfredoDataeng/AlfredoDataeng/blob/main/Banner%20Alfredo.gif" />
 </p>
 </h3>
 
