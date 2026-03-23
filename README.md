@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=poppins&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=+Tranforming+Data,+Buiilding+Solution!+)](https://git.io/typing-svg)
 #
 <p align="center">
-  <img src=".github/workflows/duque github (1280 x 320 px).gif" />
+  <img src="www.github/workflows/duque github (1280 x 320 px).gif" />
 </p>
 </h3>
 
