@@ -12,7 +12,7 @@ Alfredo para Engenheiro de dados!
 
 
 #
-<h3 align="left">My Stacks:</h3>
+<h3 align="center">My Stacks:</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
   <img width="12" />
@@ -32,15 +32,19 @@ Alfredo para Engenheiro de dados!
 </div>
 
 #
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlfredoDataeng/AlfredoDataeng/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlfredoDataeng/AlfredoDataeng/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AlfredoDataeng&theme=transparent&hide_border=true" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=AlfredoDataeng&limit=5&theme=transparent&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlfredoDataeng&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlfredoDataeng&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=AlfredoDataeng&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlfredoDataeng&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
-
-#
-
-<br clear="both">
 
 ###
 
@@ -60,5 +64,5 @@ Alfredo para Engenheiro de dados!
 
 ###
 <p align="center">
-<i>"A tecnologia move o mundo?"</i> 
+<i>"A disciplina é a ponte entre os objetivos e as conquistas!"</i> 
 </p>
